@@ -31,3 +31,7 @@ A template project for playing with Godot's 3D functionality
 A 3D model viewer like I made for Godot 2 & 3
 
 ![](./screenshots/3dmodelviewer.png)
+
+# Tutorials
+
+[My Youtbe Playlist for Godot](https://www.youtube.com/playlist?list=PLXYUuKwcv3K-jVIOODdwDEG4Zkw3fGqS8)
