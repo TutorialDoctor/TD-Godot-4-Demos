@@ -14,9 +14,9 @@ A customizable 2D platformer
 
 ![](./screenshots/2dplatformer.png)
 
-# 3D First Person
+# 3D Third Person
 
-A customizable 3D first person controller with model and assets
+A customizable 3D third person controller with model and assets
 
 ![](./screenshots/3dfirstperson.png)
 
