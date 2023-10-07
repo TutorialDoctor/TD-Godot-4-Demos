@@ -34,4 +34,4 @@ A 3D model viewer like I made for Godot 2 & 3
 
 # Tutorials
 
-[My Youtbe Playlist for Godot](https://www.youtube.com/playlist?list=PLXYUuKwcv3K-jVIOODdwDEG4Zkw3fGqS8)
+[My Youtube Playlist for Godot](https://www.youtube.com/playlist?list=PLXYUuKwcv3K-jVIOODdwDEG4Zkw3fGqS8)
