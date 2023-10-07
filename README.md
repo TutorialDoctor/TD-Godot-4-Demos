@@ -10,16 +10,16 @@ Or donate on [Kofi](https://ko-fi.com/thetutorialdoctor)
 
 A customizable 2D platformer
 
-![](/screenshots/2dplatformer.png)
+![](./screenshots/2dplatformer.png)
 
 # 3D First Person
 
 A customizable 3D first person controller with model and assets
 
-![](/screenshots/3dfirstperson.png)
+![](./screenshots/3dfirstperson.png)
 
 # 3D Starter  Template
 
 A template project for playing with Godot's 3D functionality
 
-![](/screenshots/starter.png)
+![](./screenshots/starter.png)
