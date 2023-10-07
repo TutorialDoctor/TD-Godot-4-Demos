@@ -2,6 +2,8 @@
 
 A collection of Games made with Godot 4 (coming soon)
 
+This is a sequel of the repo I made [here](https://github.com/TutorialDoctor/TD-Godot-3-Demos) (but better)
+
 Support me on [Patreon](https://www.patreon.com/TutorialDoctor):
 
 Or donate on [Kofi](https://ko-fi.com/thetutorialdoctor)
