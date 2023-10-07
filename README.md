@@ -23,3 +23,9 @@ A customizable 3D first person controller with model and assets
 A template project for playing with Godot's 3D functionality
 
 ![](./screenshots/starter.png)
+
+# 3D Model Viewer
+
+A 3D model viewer like I made for Godot 2 & 3
+
+![](./screenshots/3dmodelviewer.png)
